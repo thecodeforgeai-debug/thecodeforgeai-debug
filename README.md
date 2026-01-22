@@ -15,7 +15,7 @@ Full-stack developer specializing in **Next.js** + **FastAPI** with AI integrati
 - Claude API integration for semantic search
 - Anilist & MangaDex API integrations
 
-🔗 [Live Demo](#) (https://manhwa-ai-app.vercel.app/)
+🔗 [Live Demo](https://manhwa-ai-app.vercel.app/)
 
 ## Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
